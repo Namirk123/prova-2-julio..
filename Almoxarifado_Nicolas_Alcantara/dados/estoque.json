@@ -1,0 +1,38 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Sabão líquido",
+      "quantidade": 15,
+      "data_cadastro": "2026-11-04T08:00:00",
+      "ativo": true
+    },
+    {
+      "id": 2,
+      "nome": "Papel toalha",
+      "quantidade": 30,
+      "data_cadastro": "2026-11-04T08:00:00",
+      "ativo": true
+    }
+  ],
+  "movimentacoes": [
+    {
+      "id": 1,
+      "produto_id": 1,
+      "produto": "Sabão líquido",
+      "tipo": "entrada",
+      "quantidade": 15,
+      "usuario": "admin",
+      "data_hora": "2026-11-04T08:00:00"
+    },
+    {
+      "id": 2,
+      "produto_id": 2,
+      "produto": "Papel toalha",
+      "tipo": "entrada",
+      "quantidade": 30,
+      "usuario": "admin",
+      "data_hora": "2026-11-04T08:00:00"
+    }
+  ]
+}

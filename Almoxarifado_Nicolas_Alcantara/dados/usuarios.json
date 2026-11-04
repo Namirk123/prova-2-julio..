@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "login": "admin",
+    "sal": "e6ba2ab4dd4fcc85ee4343f8a501b7e001109407335242333fa7d55f37da7d37",
+    "salt": "escola1",
+    "perfil": "admin",
+    "ativo": true
+  },
+  {
+    "id": 2,
+    "login": "operador",
+    "sal": "deabfa3e8bb84a84f2db5bbeb7a01f65f74bbba0d4e592933230931a98984d85",
+    "salt": "escola2",
+    "perfil": "operador",
+    "ativo": true
+  }
+]

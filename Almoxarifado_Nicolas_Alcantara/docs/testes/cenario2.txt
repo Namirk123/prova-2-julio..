@@ -1,0 +1,18 @@
+EVIDÊNCIA DE TESTE | CENÁRIO 2
+Aluno: Nicolas Alcantara
+Execução real dos métodos: repositorio.py
+Data/hora da execução: 2026-11-04T13:51:15
+Produto: Desinfetante
+Saldo inicial: 10
+Ação: saída
+Quantidade solicitada: 10
+Usuário: operador
+Mensagem de erro: nenhum
+Saldo final observado: 0
+Quantidade de registros de SAÍDA criados: 1
+Tipo registrado: saida
+Quantidade registrada: 10
+Responsável registrado: operador
+Data/hora registrada: 2026-11-04T13:51:15
+Comparação esperado x obtido: CONFORME
+Status do cenário: APROVADO

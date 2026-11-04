@@ -1,0 +1,14 @@
+EVIDÊNCIA DE TESTE | CENÁRIO 1
+Aluno: Nicolas Alcantara
+Execução real dos métodos: repositorio.py
+Data/hora da execução: 2026-11-04T13:51:15
+Produto: Desinfetante
+Saldo inicial: 10
+Ação: saída
+Quantidade solicitada: 11
+Usuário: operador
+Mensagem de erro: Saída não permitida: estoque insuficiente. Disponível: 10. Solicitado: 11.
+Saldo final observado: 10
+Quantidade de registros de SAÍDA criados: 0
+Comparação esperado x obtido: CONFORME
+Status do cenário: APROVADO
